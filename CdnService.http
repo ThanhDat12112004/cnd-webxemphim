@@ -1,0 +1,6 @@
+@CdnService_HostAddress = http://localhost:5250
+
+GET {{CdnService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
